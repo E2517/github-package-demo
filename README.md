@@ -1,6 +1,6 @@
 # Project Title
 
-Create a npm package with GitHub
+Create a npm package with GitHub and use it in a React project
 
 ## Getting Started
 
