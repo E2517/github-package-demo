@@ -99,9 +99,9 @@ npm start
 
 ## Built With
 
-[npm package gihub](https://github.com/E2517/NodeMongoGraphQL/packages) 
-[react-code]: http://achoweb.es/wp-content/uploads/2020/07/reactcode.png
-[react]: http://achoweb.es/wp-content/uploads/2020/07/react.png
+* [npm package gihub](https://github.com/E2517/NodeMongoGraphQL/packages) 
+* [react-code]: http://achoweb.es/wp-content/uploads/2020/07/reactcode.png
+* [react]: http://achoweb.es/wp-content/uploads/2020/07/react.png
 
 ## Authors
 
