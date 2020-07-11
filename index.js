@@ -1,3 +1,3 @@
-module.exports = function() {
-    console.log('Hello e2517 this is your first package from GitHub');
+module.exports = function(name) {
+    console.log(`Hello ${name} this is your first package from GitHub`);
 }
