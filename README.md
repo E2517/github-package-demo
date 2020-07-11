@@ -84,6 +84,9 @@ create .npmrc and add -> registry=https://npm.pkg.github.com/e2517
         "react-scripts": "3.4.1"
     },
 ```
+```
+npm install
+```
 
 ## Deployment
 
